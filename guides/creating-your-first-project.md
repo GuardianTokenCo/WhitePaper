@@ -8,13 +8,15 @@ Guardian Token...The token with the most unique win win lottery based contract o
 
 First and foremost, the entire team of Guardian token made of a major developer and marketing/financial expert, graciously welcome you all to the guardian house(The only house where you either win or win).
 
-## Motto of Guardian token:
+## Motto & Vision of Guardian token:
+
+### Moto :
 
 We guard together, we join the burn feast together and we win together.
 
+### Vision :
+
 Restoring the standards and fomo of the yester years back to the Binance Smart Chain.
-
-
 
 ### FAQ Asked by investors and their answers
 
