@@ -2,11 +2,11 @@
 
 * [Welcome](README.md)
 
-## Guides
+## Informations
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [About  Guardian token](informations/about-guardian-token.md)
+* [Terms of Guardian](informations/terms-of-guardian.md)
+* [Token Allocation](informations/token-allocation.md)
 
 ## Fundamentals
 
