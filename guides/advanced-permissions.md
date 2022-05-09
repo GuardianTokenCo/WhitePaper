@@ -1,5 +1,16 @@
-# Advanced permissions
+---
+description: Information about how the Guard token is allocated
+---
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+# Token Allocation
+
+
+
+| Allocation         | Pourcentages                               |
+| ------------------ | ------------------------------------------ |
+| **Private Sale**   | <mark style="color:blue;">**25%**</mark>   |
+| **Liquidity Pool** | <mark style="color:blue;">**12.5%**</mark> |
+| **Staking Pool**   | <mark style="color:blue;">**32.5%**</mark> |
+| **Cex Listings**   | <mark style="color:blue;">**20%**</mark>   |
+| **Development**    | <mark style="color:blue;">**10%**</mark>   |
+
