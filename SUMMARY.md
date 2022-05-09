@@ -11,7 +11,7 @@
 
 ## Technology Stack
 
-* [Frontend Stack](technology-stack/frontend-stack.md)
+* [Frontend Stack](extras/keyboard-shortcuts.md)
 * [Backend Stack](technology-stack/backend-stack.md)
 * [Smart Contract Stack](technology-stack/smart-contract-stack.md)
 * [Cloud Services](technology-stack/cloud-services.md)
