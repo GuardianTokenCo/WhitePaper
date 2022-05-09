@@ -4,9 +4,10 @@
 
 ## Informations
 
-* [About  Guardian token](informations/about-guardian-token.md)
-* [Terms of Guardian](informations/terms-of-guardian.md)
-* [Token Allocation](informations/token-allocation.md)
+* [About  Guardian token](guides/creating-your-first-project.md)
+* [Terms of Guardian](guides/creating-your-first-task.md)
+* [Token Allocation](guides/advanced-permissions.md)
+* [Taxonomics](informations/taxonomics.md)
 
 ## Fundamentals
 
