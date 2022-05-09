@@ -22,6 +22,39 @@ Guardian Token  combines the limitless potential of crypto  with a custom "gamep
 | **YouTube**          | <mark style="color:purple;"></mark>[<mark style="color:purple;">https://www.youtube.com/channel/UCP4MYTjIKuGDc5JKfZpVgiQ</mark>](https://www.youtube.com/channel/UCP4MYTjIKuGDc5JKfZpVgiQ)<mark style="color:purple;"></mark> |
 | **Discord**          | `In progress`                                                                                                                                                                                                                 |
 
+### $GUARD Contract
+
+{% tabs %}
+{% tab title="$GUARD Token" %}
+`In progress`
+{% endtab %}
+
+{% tab title="$GUARD Staking" %}
+`In progress`
+{% endtab %}
+{% endtabs %}
+
+### Guardian Token Audit
+
+{% tabs %}
+{% tab title="SpyWolf KYC" %}
+`In progress`
+{% endtab %}
+
+{% tab title="SpyWolf $GUARD Audit" %}
+`In progress`
+{% endtab %}
+
+{% tab title="SpyWolf Staking Audit" %}
+`In progress`
+{% endtab %}
+{% endtabs %}
+
 {% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
+**Good to know:**  \
+All informations about $Guard token are able to be changed with not prior notice
+
+
+
+
 {% endhint %}
