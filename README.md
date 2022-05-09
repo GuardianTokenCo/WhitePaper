@@ -52,9 +52,6 @@ Guardian Token  combines the limitless potential of crypto  with a custom "gamep
 
 {% hint style="info" %}
 **Good to know:**  \
-All informations about $Guard token are able to be changed with not prior notice
-
-
-
-
+White Paper **version 1.03**\
+&#x20;All informations about $Guard token are able to be changed with not prior notice
 {% endhint %}
